@@ -1,6 +1,6 @@
 # Course Work 3 - Multithreading
 
-This is the repo for your third piece of coursework. There is a file included that is composed of a set of Steam games descriptions. Process this to make a single column in a separate file as is outlined in the coursework description.
+This is the repo for your third piece of coursework. There is a file included that is composed of a set of Sgames descriptions. Process this to make a single column that just contains a list of games as outlined in the coursework description.
 
 ## CMake
 
